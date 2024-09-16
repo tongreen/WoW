@@ -1,0 +1,12 @@
+{
+    "name": "World of Weed",
+    "symbol": "WoW",
+    "description": "For higher and for 420'people",
+    "image": "https://raw.githubusercontent.com/tongreen/WorldofWeed/main/WoW-logo.png",
+    "attributes": [
+      {
+        "trait_type": "Coin",
+        "value": "Weed lover people"
+      }
+    ]
+}
